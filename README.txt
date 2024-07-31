@@ -13,11 +13,12 @@ g++ -std=c++11 TPHSEL.cpp -o TPHSEL.exe
 
 //It is clear from above command that you need to have software of c++11 installed.
 
-//The output will consist of three files.
+//The output will consist of four files.
 
 1. trained_model.txt
 2. test_results.xls
 3. ensemble_results.xls
+4. results within individual hierarchies (levels).
 
 //It is clear from the names of the files that
 //First file contains details of the trained models in each hierarchy
